@@ -1,7 +1,7 @@
 {
     "patch": "14.15.1",
     "base": "https://ddragon.leagueoflegends.com/cdn/14.15.1/img/champion/",
-    "LoLdle opts": {
+    "loldle opts": {
         "name": [
             "Aatrox",
             "Ahri",
@@ -294,7 +294,7 @@
             "Flow"
         ]
     },
-    "Lore": {},
+    "lore": {},
     "champions": {
         "Aatrox": {
             "name": "Aatrox",
