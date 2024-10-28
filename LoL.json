@@ -178,11 +178,11 @@
             "Other"
         ],
         "lane": [
-            "Bottom",
+            "Top",
             "Jungle",
             "Middle",
-            "Support",
-            "Top"
+            "Bottom",
+            "Support"
         ],
         "species": [
             "Aspect",
@@ -426,9 +426,9 @@
                     "\u201cI must destroy even hope\u2026\u201d"
                 ],
                 "related_champions": [
-                    "kayn",
-                    "varus",
-                    "tryndamere"
+                    "Kayn",
+                    "Varus",
+                    "Tryndamere"
                 ]
             }
         },
@@ -614,9 +614,9 @@
                     "\u201cHuman emotions can be more volatile than even the deepest magic.\u201d"
                 ],
                 "related_champions": [
-                    "yasuo",
-                    "lillia",
-                    "monkeyking"
+                    "Yasuo",
+                    "Lillia",
+                    "MonkeyKing"
                 ]
             }
         },
@@ -806,10 +806,10 @@
                     "\u201cIf you look dangerous, you better be dangerous.\u201d"
                 ],
                 "related_champions": [
-                    "kennen",
-                    "shen",
-                    "zed",
-                    "jhin"
+                    "Kennen",
+                    "Shen",
+                    "Zed",
+                    "Jhin"
                 ]
             }
         },
@@ -931,10 +931,10 @@
                     "\u201cNot everything happens for a reason. Some things need to be sorted out.\u201d"
                 ],
                 "related_champions": [
-                    "lucian",
-                    "senna",
-                    "viego",
-                    "gwen"
+                    "Lucian",
+                    "Senna",
+                    "Viego",
+                    "Gwen"
                 ]
             }
         },
@@ -1100,7 +1100,7 @@
                     "\u201cNothing can hold me back!\u201d"
                 ],
                 "related_champions": [
-                    "xinzhao"
+                    "XinZhao"
                 ]
             }
         },
@@ -1418,10 +1418,10 @@
                     "''I am the fury of the blizzard, the bite of the wind, and the cold of the ice. I am the Freljord.''"
                 ],
                 "related_champions": [
-                    "ornn",
-                    "volibear",
-                    "ashe",
-                    "nunu"
+                    "Ornn",
+                    "Volibear",
+                    "Ashe",
+                    "Nunu"
                 ]
             }
         },
@@ -1723,8 +1723,8 @@
                     "\u201cOur faith is proven fate each time we deny it.\u201d"
                 ],
                 "related_champions": [
-                    "diana",
-                    "leona"
+                    "Diana",
+                    "Leona"
                 ]
             }
         },
@@ -1906,10 +1906,10 @@
                     "''One tribe, one people, one Freljord.''"
                 ],
                 "related_champions": [
-                    "sejuani",
-                    "tryndamere",
-                    "braum",
-                    "lissandra"
+                    "Sejuani",
+                    "Tryndamere",
+                    "Braum",
+                    "Lissandra"
                 ]
             }
         },
@@ -2039,9 +2039,9 @@
                     "\u201cCower. Worship. Marvel. They are all appropriate responses.\u201d"
                 ],
                 "related_champions": [
-                    "soraka",
-                    "leona",
-                    "diana"
+                    "Soraka",
+                    "Leona",
+                    "Diana"
                 ]
             }
         },
@@ -2155,10 +2155,10 @@
                     "\"I see the spirit realm and material realm simultaneously. This blended world is my own, and it's beautiful.\""
                 ],
                 "related_champions": [
-                    "ornn",
-                    "udyr",
-                    "anivia",
-                    "volibear"
+                    "Ornn",
+                    "Udyr",
+                    "Anivia",
+                    "Volibear"
                 ]
             }
         },
@@ -2292,12 +2292,12 @@
                     "\u201cShurima was once the glory of Runeterra. I will make it so again.\u201d"
                 ],
                 "related_champions": [
-                    "nasus",
-                    "sivir",
-                    "xerath",
-                    "renekton",
-                    "taliyah",
-                    "cassiopeia"
+                    "Nasus",
+                    "Sivir",
+                    "Xerath",
+                    "Renekton",
+                    "Taliyah",
+                    "Cassiopeia"
                 ]
             }
         },
@@ -2431,8 +2431,8 @@
                     "\u201cThe chimes of his footsteps are echoes of change.\u201d"
                 ],
                 "related_champions": [
-                    "aurelionsol",
-                    "ryze"
+                    "AurelionSol",
+                    "Ryze"
                 ]
             }
         },
@@ -2554,10 +2554,10 @@
                     "\u201cThis world will not be forgotten. I will replace it\u2014a child devouring its parent.\u201d"
                 ],
                 "related_champions": [
-                    "kaisa",
-                    "lissandra",
-                    "malzahar",
-                    "velkoz"
+                    "Kaisa",
+                    "Lissandra",
+                    "Malzahar",
+                    "Velkoz"
                 ]
             }
         },
@@ -2727,8 +2727,8 @@
                     "\u201cA SINGLE GEAR TURNING CAN MAKE ALL THE DIFFERENCE.\u201d"
                 ],
                 "related_champions": [
-                    "orianna",
-                    "viktor"
+                    "Orianna",
+                    "Viktor"
                 ]
             }
         },
@@ -2886,12 +2886,12 @@
                     "''This place will burn, not by cinder flying or breath of wind, but by the vengeance of my hand.''"
                 ],
                 "related_champions": [
-                    "ryze",
-                    "anivia",
-                    "lissandra",
-                    "nasus",
-                    "renekton",
-                    "xerath"
+                    "Ryze",
+                    "Anivia",
+                    "Lissandra",
+                    "Nasus",
+                    "Renekton",
+                    "Xerath"
                 ]
             }
         },
@@ -3029,10 +3029,10 @@
                     "\u201cToday, we fight as enemies. Tomorrow, we may fight as brothers.\u201d"
                 ],
                 "related_champions": [
-                    "ashe",
-                    "tryndamere",
-                    "lissandra",
-                    "ornn"
+                    "Ashe",
+                    "Tryndamere",
+                    "Lissandra",
+                    "Ornn"
                 ]
             }
         },
@@ -3150,10 +3150,10 @@
                     "\u201cI don\u2019t lose control, I free myself from control.\u201d"
                 ],
                 "related_champions": [
-                    "sion",
-                    "swain",
-                    "talon",
-                    "vladimir"
+                    "Sion",
+                    "Swain",
+                    "Talon",
+                    "Vladimir"
                 ]
             }
         },
@@ -3331,8 +3331,8 @@
                     "\u201cTo be the best hunter, you have to be able to think like your prey.\u201d"
                 ],
                 "related_champions": [
-                    "vi",
-                    "jinx"
+                    "Vi",
+                    "Jinx"
                 ]
             }
         },
@@ -3470,14 +3470,14 @@
                     "\u201cPrecision is the difference between a butcher and a surgeon.\u201d"
                 ],
                 "related_champions": [
-                    "caitlyn",
-                    "ezreal",
-                    "jayce",
-                    "viktor",
-                    "vi",
-                    "ekko",
-                    "orianna",
-                    "warwick"
+                    "Caitlyn",
+                    "Ezreal",
+                    "Jayce",
+                    "Viktor",
+                    "Vi",
+                    "Ekko",
+                    "Orianna",
+                    "Warwick"
                 ]
             }
         },
@@ -3619,13 +3619,13 @@
                     "\u201cSecrets are sharper than blades\u2026\u201d"
                 ],
                 "related_champions": [
-                    "katarina",
-                    "renekton",
-                    "nasus",
-                    "xerath",
-                    "sivir",
-                    "azir",
-                    "talon"
+                    "Katarina",
+                    "Renekton",
+                    "Nasus",
+                    "Xerath",
+                    "Sivir",
+                    "Azir",
+                    "Talon"
                 ]
             }
         },
@@ -3775,9 +3775,9 @@
                     "\u201cYour souls will feed the Void!\u201d"
                 ],
                 "related_champions": [
-                    "kogmaw",
-                    "khazix",
-                    "velkoz"
+                    "KogMaw",
+                    "Khazix",
+                    "Velkoz"
                 ]
             }
         },
@@ -3927,8 +3927,8 @@
                     "\u201cDeath from above!\u201d"
                 ],
                 "related_champions": [
-                    "heimerdinger",
-                    "veigar"
+                    "Heimerdinger",
+                    "Veigar"
                 ]
             }
         },
@@ -4086,10 +4086,10 @@
                     "\u201cHistory only remembers the victors. Stand with Noxus, and be remembered forever.\u201d"
                 ],
                 "related_champions": [
-                    "draven",
-                    "katarina",
-                    "swain",
-                    "vladimir"
+                    "Draven",
+                    "Katarina",
+                    "Swain",
+                    "Vladimir"
                 ]
             }
         },
@@ -4247,10 +4247,10 @@
                     "\u201cI am the light coursing in the soul of the moon.\u201d"
                 ],
                 "related_champions": [
-                    "leona",
-                    "taric",
-                    "zoe",
-                    "pantheon"
+                    "Leona",
+                    "Taric",
+                    "Zoe",
+                    "Pantheon"
                 ]
             }
         },
@@ -4404,7 +4404,7 @@
                     "\u201cMe must be good doctor. Patients never come back.\u201d"
                 ],
                 "related_champions": [
-                    "ekko"
+                    "Ekko"
                 ]
             }
         },
@@ -4562,8 +4562,8 @@
                     "'' 'The best' is wherever I decide to set the bar each day.''"
                 ],
                 "related_champions": [
-                    "darius",
-                    "swain"
+                    "Darius",
+                    "Swain"
                 ]
             }
         },
@@ -4717,13 +4717,13 @@
                     "\u201cMy devices work best when they don\u2019t work as intended\u2026 which is most of the time.\u201d"
                 ],
                 "related_champions": [
-                    "jinx",
-                    "camille",
-                    "vi",
-                    "viktor",
-                    "caitlyn",
-                    "jayce",
-                    "janna"
+                    "Jinx",
+                    "Camille",
+                    "Vi",
+                    "Viktor",
+                    "Caitlyn",
+                    "Jayce",
+                    "Janna"
                 ]
             }
         },
@@ -4865,8 +4865,8 @@
                     "\u201cBeauty is power too, and can strike swifter than any sword.\u201d"
                 ],
                 "related_champions": [
-                    "leblanc",
-                    "vladimir"
+                    "Leblanc",
+                    "Vladimir"
                 ]
             }
         },
@@ -5036,9 +5036,9 @@
                     "\u201cWhat are you doing tonight? How about we get together and unlock that vast well of torment inside you?\u201d"
                 ],
                 "related_champions": [
-                    "vayne",
-                    "tahmkench",
-                    "ryze"
+                    "Vayne",
+                    "TahmKench",
+                    "Ryze"
                 ]
             }
         },
@@ -5228,9 +5228,9 @@
                     "\u201cIf I don\u2019t know the rules, then how can I be breaking them?\u201d"
                 ],
                 "related_champions": [
-                    "kassadin",
-                    "lux",
-                    "reksai"
+                    "Kassadin",
+                    "Lux",
+                    "RekSai"
                 ]
             }
         },
@@ -5384,8 +5384,8 @@
                     "\u201cIt's hunting us. It knows what we're afraid of.\u201d"
                 ],
                 "related_champions": [
-                    "nocturne",
-                    "shaco"
+                    "Nocturne",
+                    "Shaco"
                 ]
             }
         },
@@ -5551,9 +5551,9 @@
                     "\u201cI have come to kill you for the sake of honor. And though you possess none, still you die.\u201d"
                 ],
                 "related_champions": [
-                    "jarvaniv",
-                    "garen",
-                    "jax"
+                    "JarvanIV",
+                    "Garen",
+                    "Jax"
                 ]
             }
         },
@@ -5715,9 +5715,9 @@
                     "\u201cYou people can\u2019t even breathe water. You\u2019re boring.\u201d"
                 ],
                 "related_champions": [
-                    "illaoi",
-                    "nami",
-                    "nautilus"
+                    "Illaoi",
+                    "Nami",
+                    "Nautilus"
                 ]
             }
         },
@@ -5863,10 +5863,10 @@
                     "\u201cGet behind me, Demacian! You may not have noticed, but I\u2019m very large.\u201d"
                 ],
                 "related_champions": [
-                    "kayle",
-                    "morgana",
-                    "lux",
-                    "sylas"
+                    "Kayle",
+                    "Morgana",
+                    "Lux",
+                    "Sylas"
                 ]
             }
         },
@@ -6024,12 +6024,12 @@
                     "\u201cI was cutting throats and sinking Noxian war galleys when you were still pissing your britches, boy. You don\u2019t want to take me on.\u201d"
                 ],
                 "related_champions": [
-                    "missfortune",
-                    "swain",
-                    "zed",
-                    "illaoi",
-                    "twistedfate",
-                    "graves"
+                    "MissFortune",
+                    "Swain",
+                    "Zed",
+                    "Illaoi",
+                    "TwistedFate",
+                    "Graves"
                 ]
             }
         },
@@ -6195,9 +6195,9 @@
                     "\u201cThis kingdom, and its people, have given me everything. What kind of man would I be if I gave any less in return?\u201d"
                 ],
                 "related_champions": [
-                    "lux",
-                    "jarvaniv",
-                    "quinn"
+                    "Lux",
+                    "JarvanIV",
+                    "Quinn"
                 ]
             }
         },
@@ -6343,8 +6343,8 @@
                     "\u201cGnar!\u201d"
                 ],
                 "related_champions": [
-                    "nunu",
-                    "rengar"
+                    "Nunu",
+                    "Rengar"
                 ]
             }
         },
@@ -6506,10 +6506,10 @@
                     "''Now this'll put hair on your chest!''"
                 ],
                 "related_champions": [
-                    "tryndamere",
-                    "braum",
-                    "jax",
-                    "ashe"
+                    "Tryndamere",
+                    "Braum",
+                    "Jax",
+                    "Ashe"
                 ]
             }
         },
@@ -6671,9 +6671,9 @@
                     "\u201cWe\u2019re here for your gold, not your heads\u2026 so don\u2019t nobody decide to be a hero.\u201d"
                 ],
                 "related_champions": [
-                    "twistedfate",
-                    "gangplank",
-                    "missfortune"
+                    "TwistedFate",
+                    "Gangplank",
+                    "MissFortune"
                 ]
             }
         },
@@ -6795,9 +6795,9 @@
                     "\u201cThe wind at my back feels so good. I can\u2019t lose this. I won\u2019t.\u201d"
                 ],
                 "related_champions": [
-                    "viego",
-                    "senna",
-                    "yorick"
+                    "Viego",
+                    "Senna",
+                    "Yorick"
                 ]
             }
         },
@@ -6923,10 +6923,10 @@
                     "\u201cWe don't have to be enemies. Let me change your mind.\u201d"
                 ],
                 "related_champions": [
-                    "camille",
-                    "ekko",
-                    "viktor",
-                    "zeri"
+                    "Camille",
+                    "Ekko",
+                    "Viktor",
+                    "Zeri"
                 ]
             }
         },
@@ -7080,9 +7080,9 @@
                     "\u201cBreak their ranks, and ride them down without mercy. Crush the living. Feast on their terror.\u201d"
                 ],
                 "related_champions": [
-                    "kalista",
-                    "thresh",
-                    "yorick"
+                    "Kalista",
+                    "Thresh",
+                    "Yorick"
                 ]
             }
         },
@@ -7224,11 +7224,11 @@
                     "\u201cImpossible, you say? Nonsense. Just wait till you see my calculations!\u201d"
                 ],
                 "related_champions": [
-                    "corki",
-                    "gnar",
-                    "ziggs",
-                    "rumble",
-                    "veigar"
+                    "Corki",
+                    "Gnar",
+                    "Ziggs",
+                    "Rumble",
+                    "Veigar"
                 ]
             }
         },
@@ -7342,9 +7342,9 @@
                     "\u201cCalm and chaos\u2014leave everything on the canvas.\u201d"
                 ],
                 "related_champions": [
-                    "jhin",
-                    "shen",
-                    "zed"
+                    "Jhin",
+                    "Shen",
+                    "Zed"
                 ]
             }
         },
@@ -7474,9 +7474,9 @@
                     "\u201cWisdom is frequently a kick in the head.\u201d"
                 ],
                 "related_champions": [
-                    "gangplank",
-                    "missfortune",
-                    "hecarim"
+                    "Gangplank",
+                    "MissFortune",
+                    "Hecarim"
                 ]
             }
         },
@@ -7642,8 +7642,8 @@
                     "\u201cThere was a time when I danced only for myself. Now, I dance for the First Lands.\u201d"
                 ],
                 "related_champions": [
-                    "karma",
-                    "swain"
+                    "Karma",
+                    "Swain"
                 ]
             }
         },
@@ -7769,7 +7769,7 @@
                     "\u201cThe cleverness of mushrooms always surprises me.\u201d"
                 ],
                 "related_champions": [
-                    "lillia"
+                    "Lillia"
                 ]
             }
         },
@@ -7931,10 +7931,10 @@
                     "\u201cWords may make a ruler, but only actions make history.\u201d"
                 ],
                 "related_champions": [
-                    "garen",
-                    "shyvana",
-                    "xinzhao",
-                    "lux"
+                    "Garen",
+                    "Shyvana",
+                    "XinZhao",
+                    "Lux"
                 ]
             }
         },
@@ -8104,10 +8104,10 @@
                     "\u201cDo not fear the winds of change\u2014they will always be at your back.\u201d"
                 ],
                 "related_champions": [
-                    "ekko",
-                    "jinx",
-                    "vi",
-                    "urgot"
+                    "Ekko",
+                    "Jinx",
+                    "Vi",
+                    "Urgot"
                 ]
             }
         },
@@ -8281,10 +8281,10 @@
                     "\u201cStrength and will are what make a weapon.\u201d"
                 ],
                 "related_champions": [
-                    "aatrox",
-                    "fiora",
-                    "kassadin",
-                    "zilean"
+                    "Aatrox",
+                    "Fiora",
+                    "Kassadin",
+                    "Zilean"
                 ]
             }
         },
@@ -8426,12 +8426,12 @@
                     "\u201cPicking a fight with me is the dumbest thing you\u2019ve done today \u2013 and that\u2019s saying a lot.\u201d"
                 ],
                 "related_champions": [
-                    "ezreal",
-                    "camille",
-                    "caitlyn",
-                    "vi",
-                    "viktor",
-                    "skarner"
+                    "Ezreal",
+                    "Camille",
+                    "Caitlyn",
+                    "Vi",
+                    "Viktor",
+                    "Skarner"
                 ]
             }
         },
@@ -8581,10 +8581,10 @@
                     "\u201cArt requires a certain\u2026 cruelty.\u201d"
                 ],
                 "related_champions": [
-                    "shen",
-                    "zed",
-                    "akali",
-                    "hwei"
+                    "Shen",
+                    "Zed",
+                    "Akali",
+                    "Hwei"
                 ]
             }
         },
@@ -8742,9 +8742,9 @@
                     "\u201cVolatile explosives are a girl\u2019s best friend!\u201d"
                 ],
                 "related_champions": [
-                    "caitlyn",
-                    "vi",
-                    "ekko"
+                    "Caitlyn",
+                    "Vi",
+                    "Ekko"
                 ]
             }
         },
@@ -8866,9 +8866,9 @@
                     "\u201cNo monster greater than pride.\u201d"
                 ],
                 "related_champions": [
-                    "azir",
-                    "renekton",
-                    "xerath"
+                    "Azir",
+                    "Renekton",
+                    "Xerath"
                 ]
             }
         },
@@ -9026,7 +9026,7 @@
                     "\u201cMy appearance may frighten you, but make no mistake\u2014I am on your side, and we fight to the bitter end.\u201d"
                 ],
                 "related_champions": [
-                    "malzahar"
+                    "Malzahar"
                 ]
             }
         },
@@ -9156,9 +9156,9 @@
                     "\u201cTurncoats, oath breakers and betrayers\u2026 we hate them all.\u201d"
                 ],
                 "related_champions": [
-                    "hecarim",
-                    "thresh",
-                    "yorick"
+                    "Hecarim",
+                    "Thresh",
+                    "Yorick"
                 ]
             }
         },
@@ -9324,8 +9324,8 @@
                     "<i>As Ionia changes, so must I.</i>"
                 ],
                 "related_champions": [
-                    "irelia",
-                    "leesin"
+                    "Irelia",
+                    "LeeSin"
                 ]
             }
         },
@@ -9471,11 +9471,11 @@
                     "\u201cDeath is not the end of the journey, it is just the beginning...\u201d"
                 ],
                 "related_champions": [
-                    "mordekaiser",
-                    "thresh",
-                    "yorick",
-                    "soraka",
-                    "kindred"
+                    "Mordekaiser",
+                    "Thresh",
+                    "Yorick",
+                    "Soraka",
+                    "Kindred"
                 ]
             }
         },
@@ -9621,8 +9621,8 @@
                     "\u201cThere are few indeed who may tread the paths between worlds.\u201d"
                 ],
                 "related_champions": [
-                    "malzahar",
-                    "ezreal"
+                    "Malzahar",
+                    "Ezreal"
                 ]
             }
         },
@@ -9796,12 +9796,12 @@
                     "''Never question my loyalty. You will never know what I endure for it.''"
                 ],
                 "related_champions": [
-                    "cassiopeia",
-                    "sion",
-                    "talon",
-                    "garen",
-                    "swain",
-                    "darius"
+                    "Cassiopeia",
+                    "Sion",
+                    "Talon",
+                    "Garen",
+                    "Swain",
+                    "Darius"
                 ]
             }
         },
@@ -9975,9 +9975,9 @@
                     "\u201cNo human is perfect. But I am not human.\u201d"
                 ],
                 "related_champions": [
-                    "galio",
-                    "morgana",
-                    "taric"
+                    "Galio",
+                    "Morgana",
+                    "Taric"
                 ]
             }
         },
@@ -10111,10 +10111,10 @@
                     "\u201cThe child is gone. The killer remains.\u201d"
                 ],
                 "related_champions": [
-                    "aatrox",
-                    "varus",
-                    "zed",
-                    "darius"
+                    "Aatrox",
+                    "Varus",
+                    "Zed",
+                    "Darius"
                 ]
             }
         },
@@ -10264,9 +10264,9 @@
                     "\u201cI exist across realms, in the space between lightning\u2019s strike and thunder\u2019s call, the true balance within the storm.\u201d"
                 ],
                 "related_champions": [
-                    "akali",
-                    "shen",
-                    "zed"
+                    "Akali",
+                    "Shen",
+                    "Zed"
                 ]
             }
         },
@@ -10408,10 +10408,10 @@
                     "''Kill. Consume. Adapt.''"
                 ],
                 "related_champions": [
-                    "chogath",
-                    "kogmaw",
-                    "rengar",
-                    "velkoz"
+                    "Chogath",
+                    "KogMaw",
+                    "Rengar",
+                    "Velkoz"
                 ]
             }
         },
@@ -10549,9 +10549,9 @@
                     "\u201cTell me again, little Lamb, which things are ours to take?\u201d<br>\u201cAll things, dear Wolf.\u201d"
                 ],
                 "related_champions": [
-                    "karthus",
-                    "mordekaiser",
-                    "yorick"
+                    "Karthus",
+                    "Mordekaiser",
+                    "Yorick"
                 ]
             }
         },
@@ -10677,10 +10677,10 @@
                     "\u201cA sane man would run\u2026 but I ain\u2019t the runnin\u2019 kind!\u201d"
                 ],
                 "related_champions": [
-                    "swain",
-                    "darius",
-                    "tristana",
-                    "elise"
+                    "Swain",
+                    "Darius",
+                    "Tristana",
+                    "Elise"
                 ]
             }
         },
@@ -10850,10 +10850,10 @@
                     "\u201cIf that's just hungry, I don't want to see angry.\u201d"
                 ],
                 "related_champions": [
-                    "malzahar",
-                    "khazix",
-                    "chogath",
-                    "velkoz"
+                    "Malzahar",
+                    "Khazix",
+                    "Chogath",
+                    "Velkoz"
                 ]
             }
         },
@@ -11015,8 +11015,8 @@
                     "\u201cA rose cannot grow in darkness. It dies, and the darkness grows\u2026\u201d"
                 ],
                 "related_champions": [
-                    "swain",
-                    "elise"
+                    "Swain",
+                    "Elise"
                 ]
             }
         },
@@ -11194,8 +11194,8 @@
                     "\u201cEnlightenment is knowing the value of one\u2019s ignorance.\u201d"
                 ],
                 "related_champions": [
-                    "karma",
-                    "udyr"
+                    "Karma",
+                    "Udyr"
                 ]
             }
         },
@@ -11373,10 +11373,10 @@
                     "\u201cBy the light of the Sun, the world is beheld.\u201d"
                 ],
                 "related_champions": [
-                    "diana",
-                    "taric",
-                    "aurelionsol",
-                    "pantheon"
+                    "Diana",
+                    "Taric",
+                    "AurelionSol",
+                    "Pantheon"
                 ]
             }
         },
@@ -11502,9 +11502,9 @@
                     "\u201cWhen the humans bloom, it\u2019s so beautiful\u2026 I can help them! Maybe. Possibly? Perhaps\u2026\u201d"
                 ],
                 "related_champions": [
-                    "ivern",
-                    "ahri",
-                    "yasuo"
+                    "Ivern",
+                    "Ahri",
+                    "Yasuo"
                 ]
             }
         },
@@ -11646,9 +11646,9 @@
                     "\u201cSo many secrets, buried in ice...\u201d"
                 ],
                 "related_champions": [
-                    "ashe",
-                    "sejuani",
-                    "nunu"
+                    "Ashe",
+                    "Sejuani",
+                    "Nunu"
                 ]
             }
         },
@@ -11806,10 +11806,10 @@
                     "\u201cWield the light, endure the pain, and cleanse all shadow from this world.\u201d"
                 ],
                 "related_champions": [
-                    "thresh",
-                    "missfortune",
-                    "olaf",
-                    "hecarim"
+                    "Thresh",
+                    "MissFortune",
+                    "Olaf",
+                    "Hecarim"
                 ]
             }
         },
@@ -11967,8 +11967,8 @@
                     "''The best path between two points is upside-down, between, then inside-out and round again.''"
                 ],
                 "related_champions": [
-                    "veigar",
-                    "gnar"
+                    "Veigar",
+                    "Gnar"
                 ]
             }
         },
@@ -12158,9 +12158,9 @@
                     "\u201cThe light inside is what makes me different, and I\u2019m always careful where I shine it.\u201d"
                 ],
                 "related_champions": [
-                    "garen",
-                    "jarvaniv",
-                    "galio"
+                    "Garen",
+                    "JarvanIV",
+                    "Galio"
                 ]
             }
         },
@@ -12322,10 +12322,10 @@
                     "\u201cBeware, minions of chaos! The Shard of the Monolith has come.\u201d"
                 ],
                 "related_champions": [
-                    "ezreal",
-                    "kassadin",
-                    "qiyana",
-                    "taliyah"
+                    "Ezreal",
+                    "Kassadin",
+                    "Qiyana",
+                    "Taliyah"
                 ]
             }
         },
@@ -12483,8 +12483,8 @@
                     "\u201cWe are timeless. We demand sacrifice.\u201d"
                 ],
                 "related_champions": [
-                    "kassadin",
-                    "kaisa"
+                    "Kassadin",
+                    "Kaisa"
                 ]
             }
         },
@@ -12634,9 +12634,9 @@
                     "\u201cAll around me are empty husks, soulless and unafraid... but I will bring them fear.\u201d"
                 ],
                 "related_champions": [
-                    "malphite",
-                    "zyra",
-                    "yorick"
+                    "Malphite",
+                    "Zyra",
+                    "Yorick"
                 ]
             }
         },
@@ -12810,8 +12810,8 @@
                     "''The edge of the sharpest blade is no match for the calm of the peaceful mind.''"
                 ],
                 "related_champions": [
-                    "monkeyking",
-                    "singed"
+                    "MonkeyKing",
+                    "Singed"
                 ]
             }
         },
@@ -13005,14 +13005,14 @@
                     "\u201cThe bigger the risk, the bigger the bounty.\u201d"
                 ],
                 "related_champions": [
-                    "gangplank",
-                    "illaoi",
-                    "twistedfate",
-                    "graves",
-                    "lucian",
-                    "olaf",
-                    "hecarim",
-                    "ryze"
+                    "Gangplank",
+                    "Illaoi",
+                    "TwistedFate",
+                    "Graves",
+                    "Lucian",
+                    "Olaf",
+                    "Hecarim",
+                    "Ryze"
                 ]
             }
         },
@@ -13130,9 +13130,9 @@
                     "\"The light inside us, our inner flame... That's the heart of my fire.\""
                 ],
                 "related_champions": [
-                    "neeko",
-                    "nidalee",
-                    "qiyana"
+                    "Neeko",
+                    "Nidalee",
+                    "Qiyana"
                 ]
             }
         },
@@ -13286,9 +13286,9 @@
                     "\u201cDestiny. Domination. Deceit.\u201d"
                 ],
                 "related_champions": [
-                    "leblanc",
-                    "veigar",
-                    "vladimir"
+                    "Leblanc",
+                    "Veigar",
+                    "Vladimir"
                 ]
             }
         },
@@ -13458,9 +13458,9 @@
                     "\u201cOnly those you love can break your heart.\u201d"
                 ],
                 "related_champions": [
-                    "kayle",
-                    "galio",
-                    "taric"
+                    "Kayle",
+                    "Galio",
+                    "Taric"
                 ]
             }
         },
@@ -13578,9 +13578,9 @@
                     "\u201cWe track for a thousand years. None can flee for that long.\u201d"
                 ],
                 "related_champions": [
-                    "aatrox",
-                    "kayn",
-                    "varus"
+                    "Aatrox",
+                    "Kayn",
+                    "Varus"
                 ]
             }
         },
@@ -13738,8 +13738,8 @@
                     "\u201cI decide what the tide will bring.\u201d"
                 ],
                 "related_champions": [
-                    "fizz",
-                    "nautilus"
+                    "Fizz",
+                    "Nautilus"
                 ]
             }
         },
@@ -13897,10 +13897,10 @@
                     "\u201cFor centuries, I have watched. We approach a time of reckoning.\u201d"
                 ],
                 "related_champions": [
-                    "renekton",
-                    "azir",
-                    "xerath",
-                    "sivir"
+                    "Renekton",
+                    "Azir",
+                    "Xerath",
+                    "Sivir"
                 ]
             }
         },
@@ -14046,10 +14046,10 @@
                     "''When consumed by utter darkness, there is nothing left but forward.''"
                 ],
                 "related_champions": [
-                    "fizz",
-                    "illaoi",
-                    "nami",
-                    "tahmkench"
+                    "Fizz",
+                    "Illaoi",
+                    "Nami",
+                    "TahmKench"
                 ]
             }
         },
@@ -14187,9 +14187,9 @@
                     "\u201cThe Oovi-Kat are gone. Neeko must build her own tribe, now.\u201d"
                 ],
                 "related_champions": [
-                    "nidalee",
-                    "rengar",
-                    "ezreal"
+                    "Nidalee",
+                    "Rengar",
+                    "Ezreal"
                 ]
             }
         },
@@ -14359,8 +14359,8 @@
                     "\u201cThe untamed know no fear.\u201d"
                 ],
                 "related_champions": [
-                    "neeko",
-                    "rengar"
+                    "Neeko",
+                    "Rengar"
                 ]
             }
         },
@@ -14478,10 +14478,10 @@
                     "\u201cBliss in life, and bliss forever after.\u201d"
                 ],
                 "related_champions": [
-                    "graves",
-                    "illaoi",
-                    "viego",
-                    "fiddlesticks"
+                    "Graves",
+                    "Illaoi",
+                    "Viego",
+                    "Fiddlesticks"
                 ]
             }
         },
@@ -14631,9 +14631,9 @@
                     "The darkness is closing in..."
                 ],
                 "related_champions": [
-                    "evelynn",
-                    "tahmkench",
-                    "zed"
+                    "Evelynn",
+                    "TahmKench",
+                    "Zed"
                 ]
             }
         },
@@ -14787,8 +14787,8 @@
                     "\u201cPull the fur outta your earholes, Willump! This is gonna be the bestest story ever!\u201d"
                 ],
                 "related_champions": [
-                    "lissandra",
-                    "anivia"
+                    "Lissandra",
+                    "Anivia"
                 ]
             }
         },
@@ -14942,10 +14942,10 @@
                     "''When you meet your ancestors, tell them Olaf sent you.''"
                 ],
                 "related_champions": [
-                    "sejuani",
-                    "volibear",
-                    "missfortune",
-                    "lucian"
+                    "Sejuani",
+                    "Volibear",
+                    "MissFortune",
+                    "Lucian"
                 ]
             }
         },
@@ -15099,9 +15099,9 @@
                     "\u201cWhen a moth emerges from its chrysalis, does it remember its life as a caterpillar?\u201d"
                 ],
                 "related_champions": [
-                    "blitzcrank",
-                    "camille",
-                    "skarner"
+                    "Blitzcrank",
+                    "Camille",
+                    "Skarner"
                 ]
             }
         },
@@ -15227,9 +15227,9 @@
                     "\u201cI have said enough.\u201d"
                 ],
                 "related_champions": [
-                    "volibear",
-                    "anivia",
-                    "braum"
+                    "Volibear",
+                    "Anivia",
+                    "Braum"
                 ]
             }
         },
@@ -15387,9 +15387,9 @@
                     "\u201cHere is my eternity\u2026 a day the gods will remember!\u201d"
                 ],
                 "related_champions": [
-                    "aatrox",
-                    "aurelionsol",
-                    "leona"
+                    "Aatrox",
+                    "AurelionSol",
+                    "Leona"
                 ]
             }
         },
@@ -15547,8 +15547,8 @@
                     "\u201cI\u2019m no hero. Just a yordle with a hammer.\u201d"
                 ],
                 "related_champions": [
-                    "galio",
-                    "shyvana"
+                    "Galio",
+                    "Shyvana"
                 ]
             }
         },
@@ -15694,8 +15694,8 @@
                     "\u201cThere\u2019s plenty of room for everyone at the bottom of the sea...\u201d"
                 ],
                 "related_champions": [
-                    "gangplank",
-                    "missfortune"
+                    "Gangplank",
+                    "MissFortune"
                 ]
             }
         },
@@ -15837,9 +15837,9 @@
                     "\u201cSome day, all this will be Ixaocan. A glorious empire, with an empress to fit.\u201d"
                 ],
                 "related_champions": [
-                    "malphite",
-                    "rengar",
-                    "zyra"
+                    "Malphite",
+                    "Rengar",
+                    "Zyra"
                 ]
             }
         },
@@ -15973,9 +15973,9 @@
                     "\u201cMost soldiers only rely on their weapons. Few truly rely on each other.\u201d"
                 ],
                 "related_champions": [
-                    "jarvaniv",
-                    "garen",
-                    "sona"
+                    "JarvanIV",
+                    "Garen",
+                    "Sona"
                 ]
             }
         },
@@ -16129,8 +16129,8 @@
                     "\u201cI got freedom. I got a lady. I got a cause I'd die for.\u201d"
                 ],
                 "related_champions": [
-                    "xayah",
-                    "zed"
+                    "Xayah",
+                    "Zed"
                 ]
             }
         },
@@ -16412,7 +16412,7 @@
                     "\u201cFear not ambush from the hills, nor winged beasts from the skies. The true terror of Shurima comes from the sand, and gives no warning of her presence.\u201d"
                 ],
                 "related_champions": [
-                    "skarner"
+                    "Skarner"
                 ]
             }
         },
@@ -16534,8 +16534,8 @@
                     "\u201cForge your heart into something strong. Unbreakable.\u201d"
                 ],
                 "related_champions": [
-                    "leblanc",
-                    "samira"
+                    "Leblanc",
+                    "Samira"
                 ]
             }
         },
@@ -16701,10 +16701,10 @@
                     "\u201cBlood! And vengeance!\u201d"
                 ],
                 "related_champions": [
-                    "nasus",
-                    "azir",
-                    "xerath",
-                    "sivir"
+                    "Nasus",
+                    "Azir",
+                    "Xerath",
+                    "Sivir"
                 ]
             }
         },
@@ -16846,9 +16846,9 @@
                     "\u201cPrey on the weak and you may survive. Prey on the strong and you will truly live.\u201d"
                 ],
                 "related_champions": [
-                    "khazix",
-                    "nidalee",
-                    "gnar"
+                    "Khazix",
+                    "Nidalee",
+                    "Gnar"
                 ]
             }
         },
@@ -17026,8 +17026,8 @@
                     "\u201cA warrior\u2019s blade reflects the truth in their heart. Mine is black, and broken.\u201d"
                 ],
                 "related_champions": [
-                    "leblanc",
-                    "yasuo"
+                    "Leblanc",
+                    "Yasuo"
                 ]
             }
         },
@@ -17161,11 +17161,11 @@
                     "''Ugh, it's gonna take forever to scrape your face off my suit!''"
                 ],
                 "related_champions": [
-                    "tristana",
-                    "ziggs",
-                    "heimerdinger",
-                    "teemo",
-                    "veigar"
+                    "Tristana",
+                    "Ziggs",
+                    "Heimerdinger",
+                    "Teemo",
+                    "Veigar"
                 ]
             }
         },
@@ -17327,13 +17327,13 @@
                     "\u201cTake care with this world. What is made can be unmade.\u201d"
                 ],
                 "related_champions": [
-                    "brand",
-                    "missfortune",
-                    "trundle",
-                    "sona",
-                    "nasus",
-                    "galio",
-                    "malzahar"
+                    "Brand",
+                    "MissFortune",
+                    "Trundle",
+                    "Sona",
+                    "Nasus",
+                    "Galio",
+                    "Malzahar"
                 ]
             }
         },
@@ -17459,8 +17459,8 @@
                     "\u201cVirtues, I've got a few. Vices, a few more.\u201d"
                 ],
                 "related_champions": [
-                    "darius",
-                    "leblanc"
+                    "Darius",
+                    "Leblanc"
                 ]
             }
         },
@@ -17618,9 +17618,9 @@
                     "\u201cI was cut from the ice. Shaped by the storms. Hardened in the cold.\u201d"
                 ],
                 "related_champions": [
-                    "ashe",
-                    "lissandra",
-                    "olaf"
+                    "Ashe",
+                    "Lissandra",
+                    "Olaf"
                 ]
             }
         },
@@ -17766,9 +17766,9 @@
                     "\u201cAs shadows embrace the light, I will embrace them...\u201d"
                 ],
                 "related_champions": [
-                    "lucian",
-                    "thresh",
-                    "hecarim"
+                    "Lucian",
+                    "Thresh",
+                    "Hecarim"
                 ]
             }
         },
@@ -17914,7 +17914,7 @@
                     "\u201cThis one\u2019s for you!\u201d"
                 ],
                 "related_champions": [
-                    "skarner"
+                    "Skarner"
                 ]
             }
         },
@@ -18056,8 +18056,8 @@
                     "\u201cBein\u2019 the boss\u2026 is a lot better than not bein\u2019 the boss.\u201d"
                 ],
                 "related_champions": [
-                    "alistar",
-                    "draven"
+                    "Alistar",
+                    "Draven"
                 ]
             }
         },
@@ -18219,8 +18219,8 @@
                     "\u201cWhatever you do, don't tell him you missed the punch line.\u201d"
                 ],
                 "related_champions": [
-                    "fiddlesticks",
-                    "nocturne"
+                    "Fiddlesticks",
+                    "Nocturne"
                 ]
             }
         },
@@ -18374,10 +18374,10 @@
                     "\u201cThe Eye is blind to fear, to hate, to love \u2013 to all things that would sway equilibrium.\u201d"
                 ],
                 "related_champions": [
-                    "kennen",
-                    "akali",
-                    "zed",
-                    "jhin"
+                    "Kennen",
+                    "Akali",
+                    "Zed",
+                    "Jhin"
                 ]
             }
         },
@@ -18519,9 +18519,9 @@
                     "\u201cI am of two worlds, yet I belong to neither.\u201d"
                 ],
                 "related_champions": [
-                    "jarvaniv",
-                    "xinzhao",
-                    "sona"
+                    "JarvanIV",
+                    "XinZhao",
+                    "Sona"
                 ]
             }
         },
@@ -18675,9 +18675,9 @@
                     "\u201cYou mustn\u2019t die yet; I have far too much to learn from your fragile anatomy.\u201d"
                 ],
                 "related_champions": [
-                    "warwick",
-                    "riven",
-                    "masteryi"
+                    "Warwick",
+                    "Riven",
+                    "MasterYi"
                 ]
             }
         },
@@ -18823,9 +18823,9 @@
                     "\u201cWar is eternal... as am I.\u201d"
                 ],
                 "related_champions": [
-                    "swain",
-                    "jarvaniv",
-                    "leblanc"
+                    "Swain",
+                    "JarvanIV",
+                    "Leblanc"
                 ]
             }
         },
@@ -19003,9 +19003,9 @@
                     "\u201cCoin may buy you skill for a day, but never loyalty.\u201d"
                 ],
                 "related_champions": [
-                    "azir",
-                    "nasus",
-                    "taliyah"
+                    "Azir",
+                    "Nasus",
+                    "Taliyah"
                 ]
             }
         },
@@ -19135,9 +19135,9 @@
                     "\"I may have faded into legend\u2014but I am no mere story.\""
                 ],
                 "related_champions": [
-                    "malphite",
-                    "qiyana",
-                    "milio"
+                    "Malphite",
+                    "Qiyana",
+                    "Milio"
                 ]
             }
         },
@@ -19251,9 +19251,9 @@
                     "\u201cImperial dragons are the best dragons. My mom says so.\u201d"
                 ],
                 "related_champions": [
-                    "viego",
-                    "shyvana",
-                    "aurelionsol"
+                    "Viego",
+                    "Shyvana",
+                    "AurelionSol"
                 ]
             }
         },
@@ -19415,9 +19415,9 @@
                     "\u201cMy spies whisper to me of this Ionian treasure\u2014that her melody moves the soul, and her silence sunders the body.\u201d"
                 ],
                 "related_champions": [
-                    "taric",
-                    "xinzhao",
-                    "ryze"
+                    "Taric",
+                    "XinZhao",
+                    "Ryze"
                 ]
             }
         },
@@ -19591,9 +19591,9 @@
                     "Two paths lie before you, but you can only take one."
                 ],
                 "related_champions": [
-                    "aurelionsol",
-                    "syndra",
-                    "warwick"
+                    "AurelionSol",
+                    "Syndra",
+                    "Warwick"
                 ]
             }
         },
@@ -19731,11 +19731,11 @@
                     "\u201cI have learned enough to detest all men. Only nations may be revered.\u201d"
                 ],
                 "related_champions": [
-                    "leblanc",
-                    "darius",
-                    "katarina",
-                    "draven",
-                    "vladimir"
+                    "Leblanc",
+                    "Darius",
+                    "Katarina",
+                    "Draven",
+                    "Vladimir"
                 ]
             }
         },
@@ -19873,8 +19873,8 @@
                     "\u201cI am no traitor. I am the true Demacia.\u201d"
                 ],
                 "related_champions": [
-                    "lux",
-                    "galio"
+                    "Lux",
+                    "Galio"
                 ]
             }
         },
@@ -20032,8 +20032,8 @@
                     "<i>My potential is limitless. I will not be restrained.</i>"
                 ],
                 "related_champions": [
-                    "irelia",
-                    "karma"
+                    "Irelia",
+                    "Karma"
                 ]
             }
         },
@@ -20167,10 +20167,10 @@
                     "''The whole world's a river, and I'm its king.''"
                 ],
                 "related_champions": [
-                    "evelynn",
-                    "fizz",
-                    "nautilus",
-                    "pyke"
+                    "Evelynn",
+                    "Fizz",
+                    "Nautilus",
+                    "Pyke"
                 ]
             }
         },
@@ -20300,11 +20300,11 @@
                     "\u201cThis world is a tapestry of our own making.\u201d"
                 ],
                 "related_champions": [
-                    "yasuo",
-                    "azir",
-                    "nasus",
-                    "sivir",
-                    "xerath"
+                    "Yasuo",
+                    "Azir",
+                    "Nasus",
+                    "Sivir",
+                    "Xerath"
                 ]
             }
         },
@@ -20458,9 +20458,9 @@
                     "''The three deadliest blademasters in all of Valoran are bound to the house of Du Couteau: my father, myself, and Talon. Challenge us, if you dare.''"
                 ],
                 "related_champions": [
-                    "katarina",
-                    "quinn",
-                    "cassiopeia"
+                    "Katarina",
+                    "Quinn",
+                    "Cassiopeia"
                 ]
             }
         },
@@ -20594,10 +20594,10 @@
                     "\u201cThe best weapons are beautiful.\u201d"
                 ],
                 "related_champions": [
-                    "garen",
-                    "leona",
-                    "diana",
-                    "zoe"
+                    "Garen",
+                    "Leona",
+                    "Diana",
+                    "Zoe"
                 ]
             }
         },
@@ -20763,9 +20763,9 @@
                     "\u201cBandle Scout Teemo, reporting for duty!\u201d"
                 ],
                 "related_champions": [
-                    "tristana",
-                    "lulu",
-                    "corki"
+                    "Tristana",
+                    "Lulu",
+                    "Corki"
                 ]
             }
         },
@@ -20935,11 +20935,11 @@
                     "\u201cThe mind is a wondrous thing to tear apart.\u201d"
                 ],
                 "related_champions": [
-                    "hecarim",
-                    "karthus",
-                    "lucian",
-                    "kalista",
-                    "yorick"
+                    "Hecarim",
+                    "Karthus",
+                    "Lucian",
+                    "Kalista",
+                    "Yorick"
                 ]
             }
         },
@@ -21109,8 +21109,8 @@
                     "\u201cBoomer says hi.\u201d"
                 ],
                 "related_champions": [
-                    "teemo",
-                    "rumble"
+                    "Teemo",
+                    "Rumble"
                 ]
             }
         },
@@ -21248,10 +21248,10 @@
                     "''Outsmart anyone you can't beat, and beat anyone you can't outsmart.''"
                 ],
                 "related_champions": [
-                    "lissandra",
-                    "ashe",
-                    "sejuani",
-                    "ryze"
+                    "Lissandra",
+                    "Ashe",
+                    "Sejuani",
+                    "Ryze"
                 ]
             }
         },
@@ -21409,9 +21409,9 @@
                     "''Rage is my weapon.''"
                 ],
                 "related_champions": [
-                    "ashe",
-                    "braum",
-                    "aatrox"
+                    "Ashe",
+                    "Braum",
+                    "Aatrox"
                 ]
             }
         },
@@ -21581,9 +21581,9 @@
                     "\u201cIt's not gambling if you can't lose...\u201d"
                 ],
                 "related_champions": [
-                    "graves",
-                    "gangplank",
-                    "missfortune"
+                    "Graves",
+                    "Gangplank",
+                    "MissFortune"
                 ]
             }
         },
@@ -21745,7 +21745,7 @@
                     "\u201cThey threw this away? But it\u2019s so shiny!\u201d"
                 ],
                 "related_champions": [
-                    "zac"
+                    "Zac"
                 ]
             }
         },
@@ -21879,9 +21879,9 @@
                     "\u201cI can taste our enemies' hunger for victory. Let them starve.\u201d"
                 ],
                 "related_champions": [
-                    "leesin",
-                    "sejuani",
-                    "volibear"
+                    "LeeSin",
+                    "Sejuani",
+                    "Volibear"
                 ]
             }
         },
@@ -22015,10 +22015,10 @@
                     "\u201cThere is only one way to measure a man. Tear him\u2026 into\u2026 pieces.\u201d"
                 ],
                 "related_champions": [
-                    "swain",
-                    "ekko",
-                    "camille",
-                    "darius"
+                    "Swain",
+                    "Ekko",
+                    "Camille",
+                    "Darius"
                 ]
             }
         },
@@ -22180,8 +22180,8 @@
                     "\u201cYou didn\u2019t destroy us all. And that mistake will be your undoing.\u201d"
                 ],
                 "related_champions": [
-                    "aatrox",
-                    "kayn"
+                    "Aatrox",
+                    "Kayn"
                 ]
             }
         },
@@ -22359,9 +22359,9 @@
                     "\u201cI don\u2019t kill creatures like you because it\u2019s the right thing to do. I kill you because I enjoy it.\u201d"
                 ],
                 "related_champions": [
-                    "vladimir",
-                    "warwick",
-                    "sion"
+                    "Vladimir",
+                    "Warwick",
+                    "Sion"
                 ]
             }
         },
@@ -22527,8 +22527,8 @@
                     "You deny the darkness in your soul..."
                 ],
                 "related_champions": [
-                    "mordekaiser",
-                    "leblanc"
+                    "Mordekaiser",
+                    "Leblanc"
                 ]
             }
         },
@@ -22662,10 +22662,10 @@
                     "\u201cOnly by deconstruction is truth revealed.\u201d"
                 ],
                 "related_champions": [
-                    "khazix",
-                    "chogath",
-                    "kogmaw",
-                    "reksai"
+                    "Khazix",
+                    "Chogath",
+                    "KogMaw",
+                    "RekSai"
                 ]
             }
         },
@@ -22783,10 +22783,10 @@
                     "\u201cJust... ughhhhh.\u201d"
                 ],
                 "related_champions": [
-                    "lucian",
-                    "senna",
-                    "thresh",
-                    "viego"
+                    "Lucian",
+                    "Senna",
+                    "Thresh",
+                    "Viego"
                 ]
             }
         },
@@ -22940,9 +22940,9 @@
                     "\u201cWe can either do this the hard way or\u2026 Oh wait, no. There's just the hard way.\u201d"
                 ],
                 "related_champions": [
-                    "caitlyn",
-                    "jinx",
-                    "ekko"
+                    "Caitlyn",
+                    "Jinx",
+                    "Ekko"
                 ]
             }
         },
@@ -23072,12 +23072,12 @@
                     "\u201cNo price is too great. No atrocity beyond my reach. For her... I will do anything.\u201d"
                 ],
                 "related_champions": [
-                    "hecarim",
-                    "kalista",
-                    "senna",
-                    "thresh",
-                    "vladimir",
-                    "yorick"
+                    "Hecarim",
+                    "Kalista",
+                    "Senna",
+                    "Thresh",
+                    "Vladimir",
+                    "Yorick"
                 ]
             }
         },
@@ -23211,13 +23211,13 @@
                     "\u201cA mechanized heart never misses a beat, and never falters with emotion. So why would anyone trust their life to a fragile muscle of flesh and blood?\u201d"
                 ],
                 "related_champions": [
-                    "blitzcrank",
-                    "urgot",
-                    "camille",
-                    "jayce",
-                    "ekko",
-                    "orianna",
-                    "drmundo"
+                    "Blitzcrank",
+                    "Urgot",
+                    "Camille",
+                    "Jayce",
+                    "Ekko",
+                    "Orianna",
+                    "DrMundo"
                 ]
             }
         },
@@ -23375,10 +23375,10 @@
                     "Time has made me wiser, but no more patient."
                 ],
                 "related_champions": [
-                    "swain",
-                    "leblanc",
-                    "elise",
-                    "kayn"
+                    "Swain",
+                    "Leblanc",
+                    "Elise",
+                    "Kayn"
                 ]
             }
         },
@@ -23524,9 +23524,9 @@
                     "\u201cThey have forgotten the old ways. The old ways have not forgotten them.\u201d"
                 ],
                 "related_champions": [
-                    "ornn",
-                    "anivia",
-                    "lissandra"
+                    "Ornn",
+                    "Anivia",
+                    "Lissandra"
                 ]
             }
         },
@@ -23692,9 +23692,9 @@
                     "\u201cSpill blood... draw the beast!\u201d"
                 ],
                 "related_champions": [
-                    "camille",
-                    "singed",
-                    "vayne"
+                    "Camille",
+                    "Singed",
+                    "Vayne"
                 ]
             }
         },
@@ -23836,8 +23836,8 @@
                     "\u201cMy journey is only beginning\u2026\u201d"
                 ],
                 "related_champions": [
-                    "masteryi",
-                    "ahri"
+                    "MasterYi",
+                    "Ahri"
                 ]
             }
         },
@@ -23991,8 +23991,8 @@
                     "\u201cEver been stabbed by a feather?\u201d"
                 ],
                 "related_champions": [
-                    "rakan",
-                    "zed"
+                    "Rakan",
+                    "Zed"
                 ]
             }
         },
@@ -24134,13 +24134,13 @@
                     "\u201cA lifetime as a slave has prepared me for eternity as your master.\u201d"
                 ],
                 "related_champions": [
-                    "renekton",
-                    "cassiopeia",
-                    "nasus",
-                    "azir",
-                    "sivir",
-                    "taliyah",
-                    "brand"
+                    "Renekton",
+                    "Cassiopeia",
+                    "Nasus",
+                    "Azir",
+                    "Sivir",
+                    "Taliyah",
+                    "Brand"
                 ]
             }
         },
@@ -24290,10 +24290,10 @@
                     "\u201cDeath is inevitable. One can only avoid defeat.\u201d"
                 ],
                 "related_champions": [
-                    "alistar",
-                    "jarvaniv",
-                    "garen",
-                    "shyvana"
+                    "Alistar",
+                    "JarvanIV",
+                    "Garen",
+                    "Shyvana"
                 ]
             }
         },
@@ -24467,9 +24467,9 @@
                     "\u201cDeath is like the wind\u2014always by my side.\u201d"
                 ],
                 "related_champions": [
-                    "yone",
-                    "taliyah",
-                    "riven"
+                    "Yone",
+                    "Taliyah",
+                    "Riven"
                 ]
             }
         },
@@ -24615,8 +24615,8 @@
                     "\u201cThey look at me and see only the mask. I look at them and see only their fears.\u201d"
                 ],
                 "related_champions": [
-                    "yasuo",
-                    "lillia"
+                    "Yasuo",
+                    "Lillia"
                 ]
             }
         },
@@ -24754,12 +24754,12 @@
                     "\u201cThese isles\u2026 How they scream.\u201d"
                 ],
                 "related_champions": [
-                    "hecarim",
-                    "kalista",
-                    "thresh",
-                    "karthus",
-                    "maokai",
-                    "kindred"
+                    "Hecarim",
+                    "Kalista",
+                    "Thresh",
+                    "Karthus",
+                    "Maokai",
+                    "Kindred"
                 ]
             }
         },
@@ -24901,9 +24901,9 @@
                     "\u201cCats are made of twilight and tricks, dogs are made of barks and sticks! Book\u2019s just old trees.\u201d"
                 ],
                 "related_champions": [
-                    "lulu",
-                    "tristana",
-                    "teemo"
+                    "Lulu",
+                    "Tristana",
+                    "Teemo"
                 ]
             }
         },
@@ -25037,7 +25037,7 @@
                     "\u201cThe angrier you get, the more this is going to hurt...\u201d"
                 ],
                 "related_champions": [
-                    "twitch"
+                    "Twitch"
                 ]
             }
         },
@@ -25195,12 +25195,12 @@
                     "<i>\u201cBalance is a fool\u2019s master.\u201d</i>"
                 ],
                 "related_champions": [
-                    "shen",
-                    "akali",
-                    "kennen",
-                    "gangplank",
-                    "jhin",
-                    "kayn"
+                    "Shen",
+                    "Akali",
+                    "Kennen",
+                    "Gangplank",
+                    "Jhin",
+                    "Kayn"
                 ]
             }
         },
@@ -25322,7 +25322,7 @@
                     "\u201cI belong here. We all belong here.\u201d"
                 ],
                 "related_champions": [
-                    "ekko"
+                    "Ekko"
                 ]
             }
         },
@@ -25476,9 +25476,9 @@
                     "''Ziggs? Unpredictable, dangerous, yes yes. But quite brilliant!''"
                 ],
                 "related_champions": [
-                    "heimerdinger",
-                    "rumble",
-                    "veigar"
+                    "Heimerdinger",
+                    "Rumble",
+                    "Veigar"
                 ]
             }
         },
@@ -25616,9 +25616,9 @@
                     "\u201cThere is no greater grief than for a loss that is yet to come.\u201d"
                 ],
                 "related_champions": [
-                    "aatrox",
-                    "jax",
-                    "velkoz"
+                    "Aatrox",
+                    "Jax",
+                    "Velkoz"
                 ]
             }
         },
@@ -25756,8 +25756,8 @@
                     "\u201cI bring a message for you all\u2014a warning, a sigil. But first, I wanna see the sparkleflies!\u201d"
                 ],
                 "related_champions": [
-                    "aurelionsol",
-                    "pantheon"
+                    "AurelionSol",
+                    "Pantheon"
                 ]
             }
         },
@@ -25911,8 +25911,8 @@
                     "\u201cWhere are your friends? Mine are all around\u2026\u201d"
                 ],
                 "related_champions": [
-                    "ivern",
-                    "nidalee"
+                    "Ivern",
+                    "Nidalee"
                 ]
             }
         }
