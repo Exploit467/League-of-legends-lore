@@ -1,6 +1,6 @@
 {
-    "patch": "14.15.1",
-    "base": "https://ddragon.leagueoflegends.com/cdn/14.15.1/",
+    "patch": "15.2.1",
+    "base": "https://ddragon.leagueoflegends.com/cdn/15.2.1/",
     "loldle opts": {
         "name": [
             "Aatrox",
