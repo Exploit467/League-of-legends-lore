@@ -12944,7 +12944,7 @@
             "title": "The soul's reflection",
             "id": 800,
             "game_related": {
-                "lane": "Mid",
+                "lane": "Middle",
                 "ressource": "Mana",
                 "partype": "Mana",
                 "range_type": "Ranged",
