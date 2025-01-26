@@ -2,104 +2,104 @@
     "patch": "15.2.1",
     "base": "https://ddragon.leagueoflegends.com/cdn/15.2.1/",
     "regions": {
-        "freljord": {
+        "Freljord": {
             "name": "Freljord",
             "description": "The Freljord (pronounced /'f\u0279\u025b\u026bj\u0254\u0279d/ frell-yord) is a harsh and unforgiving land. Proud and fiercely independent, its people are born warriors, with a strong raiding culture. While there are many individual tribes within the Freljord, the battle lines are being drawn in a three-way civil war that will determine the future of them all. One tribe unflinchingly honors the {champ:sejuani}[traditions] that have ensured its survival; another follows the dream of a united future, as foretold by a young {champ:ashe}[idealist]; while the third worships the power of an enigmatic {champ:sejuani}[sorceress]. Freljord is also the only place where True Ice can be found.",
             "outside": false,
             "icon": "freljord_crest_icon.png",
             "animated-bg": "freljord.webm"
         },
-        "demacia": {
+        "Demacia": {
             "name": "Demacia",
             "description": "Demacia is a strong, lawful society with a prestigious military history. It values the ideals of justice, honor, and duty highly, and its people are fiercely proud. The nation has a rich culture, and its military has a strong presence in the world. Demacia is in conflict with Noxus, a powerful and often brutal nation with which it has a long history of war.",
             "outside": false,
             "icon": "demacia_crest_icon.png",
             "animated-bg": "demacia.webm"
         },
-        "noxus": {
+        "Noxus": {
             "name": "Noxus",
             "description": "Noxus is a powerful empire with a fearsome reputation. To those beyond its borders, Noxus is brutal, expansionist, and threatening, yet those who look beyond its warlike exterior see an unusually inclusive society, where the strengths and talents of its people are respected and cultivated. Its people were once a fierce reaver culture until they stormed the ancient city that now lies at the heart of the empire and took it for their own. Now they use their military might to keep the empire's rivals at bay, while striving to broaden their nation's wealth and influence.",
             "outside": false,
             "icon": "noxus_crest_icon.png",
             "animated-bg": "noxus.webm"
         },
-        "ionia": {
+        "Ionia": {
             "name": "Ionia",
             "description": "Ionia is a land of unspoiled beauty and natural magic. Its inhabitants, living in scattered settlements across this massive archipelago, are a spiritual people who seek to live in harmony and balance with the world. They are also fierce defenders of their homeland, and have a long history of resistance to foreign invasion. The Ionians were the first to master the magical arts, and their practitioners are among the most skilled in all of Runeterra.",
             "outside": false,
             "icon": "ionia_crest_icon.png",
             "animated-bg": "ionia.webm"
         },
-        "piltover": {
+        "Piltover": {
             "name": "Piltover",
             "description": "Piltover is a thriving, progressive city whose power and influence is on the rise. It is known for its innovative techmaturgical research, which has built a city where magical hextech energy is used to power devices, transportation, and even everyday tools. Piltover is a place of great thinkers, brilliant inventors, and grandiose dreamers. It is also a place of vast wealth, where the gap between the rich and the poor is ever widening.",
             "outside": false,
             "icon": "piltover_crest_icon.png",
             "animated-bg": "piltover.webm"
         },
-        "zaun": {
+        "Zaun": {
             "name": "Zaun",
             "description": "Zaun is a large, undercity district, lying in the deep canyons and valleys threading Piltover. What Zaun lacks in beauty, it makes up for in industry, and the people of Zaun are experts in the fields of alchemy, techmaturgy, and mechanical augmentation. The city is a place of dark, steaming factories, where the sky is choked with smog and the people are hardened and ruthless. The two cities are connected by a vast system of pipes, cables, and sewer tunnels, and the people of Zaun are always looking for ways to exploit their wealthier neighbors in Piltover.",
             "outside": false,
             "icon": "zaun_crest_icon.png",
             "animated-bg": "zaun.webm"
         },
-        "bilgewater": {
+        "Bilgewater": {
             "name": "Bilgewater",
             "description": "Bilgewater is a haven for smugglers, marauders, and the unscrupulous, where are made and ambitions shattered in the blink of an eye. For those fleeing justice, debt, or persecution, it is a city of new beginnings; no one on the twisted streets of Bilgewater cares about your past. It's a melting pot of cultures, races, and creeds, alive with activity at all hours. While incredibly dangerous, Bilgewater is also ripe with opportunity, free from the shackles of government, regulation, and moral constraints. If you have the coin, almost anything can be purchased in Bilgewater, from outlawed hextech to the favor of local crime lords. Nevertheless, come daybreak, the unwary are found floating in the harbor, their purses empty and their throats slit. ",
             "outside": false,
             "icon": "bilgewater_crest_icon.png",
             "animated-bg": "bilgewater.webm"
         },
-        "shadow-isles": {
+        "Shadow_Isles": {
             "name": "Shadow Isles",
             "description": "The Shadow Isles are a dark and terrifying place, where the barrier between the realms of the living and the dead has been worn thin, and the dead walk the earth. The islands are home to many restless spirits, and the land itself is twisted and corrupted by dark magic. The Shadow Isles are a place of great danger, and few who venture there ever return. The islands are also home to the Black Mist, a malevolent force that can drive people mad, and the Ruined King, a powerful and ancient being who seeks to bring ruin to all of Runeterra.",
             "outside": false,
             "icon": "shadow_isles_crest_icon.png",
             "animated-bg": "shadow-isles.webm"
         },
-        "shurima": {
+        "Shurima": {
             "name": "Shurima",
             "description": "Shurima is a vast and ancient empire, whose glory has long since faded. The empire was once a powerful and prosperous nation, but it has been in decline for centuries. The people of Shurima are proud and fiercely independent, and they have a rich culture and history. The empire is home to many ancient ruins and artifacts, and its people are known for their skill in magic and sorcery. Shurima is also home to the Ascended, powerful beings who were once mortal, but who have been transformed by the power of the Sun Disc.",
             "outside": false,
             "icon": "shurima_crest_icon.png"
         },
-        "targon": {
+        "Targon": {
             "name": "Mt. Targon",
             "description": "Targon is a mountainous region, home to the Rakkor, a proud and warlike people. The Rakkor are a fierce and independent tribe, who live in the shadow of the great mountain Targon. The mountain is said to be the home of the Aspects, powerful celestial beings who watch over the world. The Rakkor are a deeply spiritual people, who worship the Aspects and seek to emulate their virtues. Targon is also home to the Solari, a powerful religious order who venerate the sun, and the Lunari, a secretive group who worship the moon.",
             "outside": false,
             "icon": "mt_targon_crest_icon.png",
             "animated-bg": "targon.webm"
         },
-        "icathia": {
+        "Icathia": {
             "name": "Icathia",
             "description": "Icathia is a mysterious and dangerous place, where the barrier between the material world and the Void is thin. The city is home to many strange and otherworldly creatures, and its people are known for their dark and forbidden magic. Icathia is a place of great danger, and few who venture there ever return. The city is also home to the Voidborn, powerful and malevolent beings who seek to bring ruin to all of Runeterra.",
             "outside": false,
             "icon": "void_crest_icon.png",
             "animated-bg": "void.webm"
         },
-        "ixtal": {
+        "Ixtal": {
             "name": "Ixtal",
             "description": "Renowned for its mastery of elemental magic, Ixtal was one of the first independent nations to join the {region:shurima}[Shuriman] empire. In truth, Ixtali culture is much older\u2014part of the great westward diaspora that gave rise to civilizations including the Buhru, magnificent Helia, and the ascetics of Targon\u2014and it is likely they played a significant role in the creation of the first Ascended. <br>But the mages of Ixtal survived {region:void}[the Void], and later the Darkin, by distancing themselves from their neighbors, drawing the wilderness around them like a shield. While much had already been lost, they were committed to the preservation of what little remained...<br>Now, secluded deep in the jungle for thousands of years, the sophisticated arcology-city of Ixaocan remains mostly free of outside influence. Having witnessed from afar the ruination of the Blessed Isles and the Rune Wars that followed, the Ixtali view all the other factions of Runeterra as upstarts and pretenders, and use their powerful magic to keep any intruders at bay. ",
             "outside": false,
             "icon": "ixtal_crest_icon.png",
             "animated-bg": "ixtal.webm"
         },
-        "void": {
+        "Void": {
             "name": "The Void",
             "description": "The Void is a dark and terrifying place, where the barrier between the material world and the Void is thin. The Void is home to many strange and otherworldly creatures, and its people are known for their dark and forbidden magic. The Void is a place of great danger, and few who venture there ever return. The Void is also home to the Voidborn, powerful and malevolent beings who seek to bring ruin to all of Runeterra.",
             "outside": true,
             "icon": "void_crest_icon.png",
             "animated-bg": "void.webm"
         },
-        "bandle-city": {
+        "Bandle_City": {
             "name": "Bandle City",
             "description": "Opinions differ as to where exactly the home of the yordles is to be found, though a handful of mortals claim to have traveled unseen pathways to a land of curious enchantment beyond the material realm. They tell of a place of unfettered magic, where the foolhardy can be led astray by myriad wonders, and end up lost in a dream... <br>In Bandle City, it is said that every sensation is heightened for non-yordles. Colors are brighter. Food and drink intoxicates the senses for years and, once tasted, will never be forgotten. The sunlight is eternally golden, the waters crystal clear, and every harvest brings a fruitful bounty. Perhaps some of these claims are true, or maybe none\u2014for no two taletellers ever seem to agree on what they actually saw. <br>Only one thing is known for certain, and that is the timeless quality of Bandle City and its inhabitants. This might explain why those mortals who find their way back often appear to have aged tremendously, while many more never return at all. ",
             "outside": true,
             "icon": "bandle_city_crest_icon.png",
             "animated-bg": "bandle-city.webm"
         },
-        "camavor": {
+        "Camavor": {
             "name": "Camavor",
             "description": "Camavor is a vast and ancient empire, whose glory has long since faded. The empire was once a powerful and prosperous nation, but it has been in decline for centuries. The people of Camavor are proud and fiercely independent, and they have a rich culture and history. The empire is home to many ancient ruins and artifacts, and its people are known for their skill in magic and sorcery. Camavor is also home to the Ascended, powerful beings who were once mortal, but who have been transformed by the power of the Sun Disc.",
             "outside": true,
